@@ -1,0 +1,11 @@
+.lastModified {
+    font-weight: bold;
+    border: solid 1px black;
+}
+.color{
+    background-color: black;
+    color: white;
+}
+.sizeup {
+    font-size: 1.2em;
+}
